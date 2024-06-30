@@ -67,4 +67,3 @@ class ToDoList:
 if __name__ == "__main__":
     todo_list = ToDoList()
     todo_list.run()
-```
